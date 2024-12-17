@@ -1,4 +1,4 @@
-### Olá eu sou o Thiago  😎
+### Olá eu sou o Thiago
 
 <div style="display:flex; width:100%; height:100% align-items:center; justify-content:center;">
 
