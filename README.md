@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thiagooliveira-dev)
 
-## Tecnologias que uso com frequência
+## 💻 Tecnologias que uso com frequência
 
 [![devSLT's github stats](https://github-readme-stats.vercel.app/api?username=devSLT&show_icons=true&&theme=radical&hide=["contribs","issues"])](https://github.com/devSLT)
 
