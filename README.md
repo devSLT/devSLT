@@ -1,6 +1,6 @@
 ## Olá! Seja bem-vindo ao meu GitHub 🖐️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thiagooliveira-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagooliveira-dev)
 
 [![devSLT's github stats](https://github-readme-stats.vercel.app/api?username=devSLT&show_icons=true&&theme=radical&hide=["contribs","issues"])](https://github.com/devSLT)
 
