@@ -1,8 +1,21 @@
-### Olá eu sou o Thiago
+### Olá, seja bem vindo ao meu GitHub.
+
+## 💻 Tech Stack 💻
+ 
+- 🌐 HTML | CSS | JavaScript | React | React-Native
+- 💻 NodeJS | Express
+- 🛢 MySQL | PostgreSQL | MongoDB
+- 🔧 Visual Studio Code | Git
+
+⚡ The characteristics that I want to keep are: commitment, fast learning and dedication with everything I work with. I'm always working to improve these characteristics in me. ⚡
+
+- You can to follow me at Linked-In, <a href="www.linkedin.com/in/thiagooliveira-dev">I'm here!</a>
 
 <div style="display:flex; width:100%; height:100% align-items:center; justify-content:center;">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devSLT&show_icons=true&theme=radical)
+[![devSLT's github stats](https://github-readme-stats.vercel.app/api?username=devSLT&show_icons=true&&theme=radical&hide=["contribs","issues"])](https://github.com/devSLT)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devSLT&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
   ### Técnologias que uso no dia a dia
   
