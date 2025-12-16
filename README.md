@@ -17,4 +17,4 @@
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
 
-💻 Desde o final de 2021 tenho me especializado em Desenvolvimento Web fullstack, sempre tentando me aprimorar.
+💻 Desde o final de 2021 tenho me especializado em Desenvolvimento Web fullstack, sempre tentando me aprimorar. Diariamente atuo com diversas tecnologias, como: HTML, CSS, Liquid, Bootstrap, JavaScript, Python, React, React Native, MySQL, MongoDB, PostgreSQL. 
